@@ -7,13 +7,13 @@ function Slider() {
   return (
     <ImageSlider effectDelay={500} autoPlayDelay={2000}>
       <Slide>
-        <img alt="img2" src={Bannew1} />
+        <img alt="img2" src={Bannew1} style={{width:"99%",height:"100%"}}/>
       </Slide>
       <Slide>
-        <img alt="img2" src={Bannew2} />
+        <img alt="img2" src={Bannew2} style={{width:"99%",height:"100%"}}/>
       </Slide>
       <Slide>
-        <img alt="img1" src={ban3} />
+        <img alt="img1" src={ban3} style={{width:"99%",height:"100%"}}/>
       </Slide>
     </ImageSlider>
   );

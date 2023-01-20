@@ -55,13 +55,13 @@ export default function Grids2() {
               <div
                 style={{height:"40%", width:"90%",marginBottom:"3%",marginTop:"3%",padding:"1%",borderRadius:"10px 10px 10px 10px"}}>
                 <h5>Mission</h5>
-                <p style={{padding:"0",margin:"0",font:"15px",fontFamily:"'Lato', sans-serif"}}>To enable the poor to improve
+                <p style={{padding:"0",margin:"0",font:"7px",fontFamily:"'Lato', sans-serif"}}>To enable the poor to improve
                   their quality of life by delivering simple yet innovative, small yet high value solutions for
                   strengthening their livelihood and skill options.</p>
               </div>
               <div style={{height:"40%", width:"90%",padding:"1%",borderRadius:"10px 10px 10px 10px",marginBottom:"3%"}}>
                 <h5>Vision</h5>
-                <p style={{padding:"0",margin:"0", font:"15px"}}>To become a respected concern in the emerging markets creating
+                <p style={{padding:"0",margin:"0", font:"7px"}}>To become a respected concern in the emerging markets creating
                   innovative and effective solutions for the rural producers/ unemployed youths for a sustainable
                   livelihood opportunity.
                 </p>

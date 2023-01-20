@@ -15,11 +15,11 @@ export default function Gallery() {
     <>
     <div className="mobile-none"
       style={{width: "100%", height: "fit-content", backgroundImage: "linear-gradient(red,#bbb,0.5)", backgroundColor: "rgb(232, 255, 228)"}}>
-      <div style={{height: "600px", justifyContent: "center", width: "100vw", backgroundColor: "rgba(226, 137, 43, 0.393)"}}>
+      <div style={{height: "600px", justifyContent: "center", width: "100%", backgroundColor: "rgba(226, 137, 43, 0.393)"}}>
         <div className="row " style={{justifyContent: "space-between"}}>
           <div className="col-3">
             <button
-              style={{textDecoration: "none", fontWeight: "bold", marginTop: "50px", marginLeft: "650px", fontSize:"xx-large", alignItems: "center", border: "solid 1px #fff", padding: "5px", borderRadius: "10px"}}>Photo
+              style={{textDecoration: "none", fontWeight: "bold", marginTop: "50px", marginLeft: "550px", fontSize:"xx-large", alignItems: "center", border: "solid 1px #fff", padding: "5px", borderRadius: "10px"}}>Photo
               Gallery</button>
           </div>
           <div className="col-3">
@@ -28,7 +28,7 @@ export default function Gallery() {
 
         </div>
 
-        <div className="gallery gallerypart" style={{marginLeft:"200px", height: "530px", width: "100%", marginTop: "15px"}}>
+        <div className="gallery gallerypart" style={{marginLeft:"80px", height: "500px", width: "100%", marginTop: "15px"}}>
 
           <div className="clipped-border">
             <img src={img1} id="clipped" alt=''/>

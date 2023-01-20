@@ -38,7 +38,7 @@
     text-align:right center; 
     font-family:'Lato' sans-serif;
     display:flex; 
-    /* font-weight:680; */
+    
     font-size:12px;
     text-transform:capitalize;
     font-family: Verdana, sans-serif;
@@ -59,7 +59,7 @@
     text-align:right center; 
     font-family:'Lato', sans-serif;
     display:flex; 
-    /* text-weight:680; */
+    
     font-size:12px;
     text-transform:capitalize;
     text-align:right;
@@ -123,4 +123,3 @@
     margin-left:1167px;
     margin-bottom: -53px;
   }
-  /* Header css part end */

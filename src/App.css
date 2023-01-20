@@ -471,8 +471,8 @@ align-items: center;
 text-align: center;
 margin: 5px 2px;
 }
-<!-- //gallery new with 6 -->
-<style>
+/* <!-- //gallery new with 6 --> */
+
   .gallerypart {
     --width: 100%;
     --height: 100%;
@@ -637,8 +637,8 @@ overflow:hidden;
     }
   }
 
-  <!-- //video gallery  -->
-    <style>
+  /* <!-- //video gallery  -->
+    <style> */
       /* *{
     margin: 0;
     padding: 0;
@@ -659,7 +659,7 @@ body{
         width: 1100px;
         height: 480px;
         display: flex;
-        margin-left: 210px;
+        margin-left: 0px;
         /* background: rgb(238, 236, 236); */
       }
 
@@ -691,7 +691,7 @@ body{
       }
 
       .containerss .main-video {
-        width: 80%;
+        width: 60%;
         padding: 10px;
       }
 

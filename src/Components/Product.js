@@ -21,7 +21,7 @@ export default function Product() {
       <div className="row " style={{justifyContent: "space-between"}}>
       <div className="col-3">
         <button
-          style={{textDecoration: "none", fontWeight: "bold", marginTop: "50px", marginLeft: "650px", fontSize:"xx-large", alignItems: "center", border: "solid 1px #fff", padding: "5px", borderRadius: "10px"}}>Our Products</button>
+          style={{textDecoration: "none", fontWeight: "bold", marginTop: "50px", marginLeft: "550px", fontSize:"xx-large", alignItems: "center", border: "solid 1px #fff", padding: "5px", borderRadius: "10px"}}>Our Products</button>
       </div>
       <div className="col-3">
         <Button variant="contained"><a className="waves-effect waves-light btn right " style={{color: "white"}} href="#/">View more</a></Button>

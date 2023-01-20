@@ -18,7 +18,7 @@ export default function Video() {
         <div className="row " style={{justifyContent: "space-between"}}>
           <div class="col-3">
             <button
-              style={{textDecoration: "none",fontWeight: "bold", marginTop: "50px", marginLeft: "650px", fontSize:"xx-large", alignItems: "center", border: "solid 1px #fff", padding: "5px", borderRadius: "10px"}}>Video
+              style={{textDecoration: "none",fontWeight: "bold", marginTop: "50px", marginLeft: "550px", fontSize:"xx-large", alignItems: "center", border: "solid 1px #fff", padding: "5px", borderRadius: "10px"}}>Video
               Gallery</button>
           </div>
           <div className="col-3">
@@ -26,7 +26,7 @@ export default function Video() {
           </div>
 
         </div>
-        <div style={{marginLeft:"200px",marginRight:"200px"}}>
+        <div style={{marginLeft:"180px",marginRight:"200px"}}>
         <div className="containerss" style={{display:"flex"}}>
           <div className="videos">
             <video className="active" src={vid1} muted loop></video>
